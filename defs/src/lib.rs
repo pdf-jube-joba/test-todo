@@ -1,0 +1,1 @@
+struct Todo(bool, String);
