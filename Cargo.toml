@@ -2,4 +2,6 @@
 members = [
     "defs",
     "in-memory",
+    "sqlite_rs",
+    "yew-ui",
 ]
